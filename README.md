@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Roman0290/Competitive-Programming/tree/master/0782-jewels-and-stones) |
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
