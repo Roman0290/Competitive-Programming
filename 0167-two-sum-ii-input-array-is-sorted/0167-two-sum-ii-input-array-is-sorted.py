@@ -10,10 +10,10 @@ class Solution:
                 left += 1
             elif cur_sum > target:
                 right -= 1
-            elif cur_sum == target:
-                return [left +1,right+1]
             else:
-                return -1   
+                return [left +1,right+1]
+            
+        return -1   
 
         
         
