@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Roman0290/Competitive-Programming/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Roman0290/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
+| [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roman0290/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
