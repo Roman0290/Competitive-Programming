@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roman0290/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Roman0290/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/2350-find-closest-number-to-zero) |
 ## Sliding Window
 |  |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Roman0290/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roman0290/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
