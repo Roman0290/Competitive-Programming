@@ -3,10 +3,16 @@ class Solution:
         if not strs:
             return ""
 
-        first, last = min(strs), max(strs)
+        def is_common_prefix(length):
+            prefix = strs[0][:length]
+            return all(s.startswith(prefix) for s in strs)
 
-        for i, char in enumerate(first):
-            if i >= len(last) or char != last[i]:
-                return first[:i]
+        left, right = 0, len(min(strs, key=len))
+        while left < right:
+            mid = (left + right + 1) // 2
+            if is_common_prefix(mid):
+                left = mid
+            else:
+                right = mid - 1
 
-        return first
+        return strs[0][:left]
