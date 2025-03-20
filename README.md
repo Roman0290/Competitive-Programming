@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Roman0290/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
+## Math
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Roman0290/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Roman0290/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
