@@ -13,8 +13,6 @@ class Solution:
             for i in range(min(2, count)):  
                 nums[left] = nums[right]
                 left += 1
-
-            # Move to the next new number
             right += 1  
 
-        return left  # The length of the modified array
+        return left  
