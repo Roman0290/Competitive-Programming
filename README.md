@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Roman0290/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Roman0290/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Roman0290/Competitive-Programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Roman0290/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Roman0290/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
