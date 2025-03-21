@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Roman0290/Competitive-Programming/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Roman0290/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Roman0290/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2350-find-closest-number-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/2350-find-closest-number-to-zero) |
 ## Sliding Window
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
