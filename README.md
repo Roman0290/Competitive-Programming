@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Roman0290/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Roman0290/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roman0290/Competitive-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Roman0290/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Roman0290/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
