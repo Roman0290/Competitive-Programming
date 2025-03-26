@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Roman0290/Competitive-Programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Roman0290/Competitive-Programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
