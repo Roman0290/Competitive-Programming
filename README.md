@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Roman0290/Competitive-Programming/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
