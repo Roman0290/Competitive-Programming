@@ -88,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2491-smallest-even-multiple](https://github.com/Roman0290/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Roman0290/Competitive-Programming/tree/master/2556-convert-the-temperature) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Roman0290/Competitive-Programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Roman0290/Competitive-Programming/tree/master/2649-count-total-number-of-colored-cells) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Roman0290/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Roman0290/Competitive-Programming/tree/master/2610-closest-prime-numbers-in-range) |
 ## Trie
 |  |
 | ------- |
