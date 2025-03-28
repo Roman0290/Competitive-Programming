@@ -177,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Roman0290/Competitive-Programming/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Roman0290/Competitive-Programming/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
