@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Roman0290/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Roman0290/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Roman0290/Competitive-Programming/tree/master/2690-house-robber-iv) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Roman0290/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Roman0290/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Math
 |  |
 | ------- |
@@ -161,4 +165,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Roman0290/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Union Find
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
