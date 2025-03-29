@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Roman0290/Competitive-Programming/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Roman0290/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Roman0290/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roman0290/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix
 |  |
 | ------- |
@@ -129,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Roman0290/Competitive-Programming/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Roman0290/Competitive-Programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Roman0290/Competitive-Programming/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Roman0290/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Roman0290/Competitive-Programming/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Roman0290/Competitive-Programming/tree/master/0838-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
