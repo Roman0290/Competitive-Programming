@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Roman0290/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Roman0290/Competitive-Programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Roman0290/Competitive-Programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Roman0290/Competitive-Programming/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Roman0290/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Roman0290/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Roman0290/Competitive-Programming/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
