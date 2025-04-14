@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Roman0290/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Roman0290/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/Roman0290/Competitive-Programming/tree/master/1656-count-good-triplets) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Roman0290/Competitive-Programming/tree/master/2262-solving-questions-with-brainpower) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Roman0290/Competitive-Programming/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
