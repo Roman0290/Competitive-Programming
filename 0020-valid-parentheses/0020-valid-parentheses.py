@@ -1,23 +1,19 @@
-from collections import deque
-
 class Solution:
     def isValid(self, s: str) -> bool:
-        hmap={ ')':'(', '}':'{', ']':'[' }
-        stk=[]
-        
-        for c in s:
-            if c not in hmap:
-                stk.append(c)
+        hash_map = { '}':'{',']':'[', ')':'('}
+        stack = []
+
+        for char in s:
+            if char not in hash_map:
+                stack.append(char)
+
             else:
-                if not stk:
+                if not stack:
                     return False
                 else:
-                    popped = stk.pop()
-                    if popped != hmap[c]:
+                    popped = stack.pop()
+                    if popped != hash_map[char]:
                         return False
-        return not stk
+        return not stack
 
-
-    
-
-        
+            
