@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Roman0290/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Roman0290/Competitive-Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
