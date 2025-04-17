@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Roman0290/Competitive-Programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2280-count-good-triplets-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
