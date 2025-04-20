@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/Roman0290/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Roman0290/Competitive-Programming/tree/master/0782-jewels-and-stones) |
+| [0797-rabbits-in-forest](https://github.com/Roman0290/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1297-maximum-number-of-balloons](https://github.com/Roman0290/Competitive-Programming/tree/master/1297-maximum-number-of-balloons) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Roman0290/Competitive-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Roman0290/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
+| [0797-rabbits-in-forest](https://github.com/Roman0290/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Roman0290/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/Roman0290/Competitive-Programming/tree/master/1656-count-good-triplets) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Roman0290/Competitive-Programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Roman0290/Competitive-Programming/tree/master/0013-roman-to-integer) |
+| [0797-rabbits-in-forest](https://github.com/Roman0290/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Roman0290/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Roman0290/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Roman0290/Competitive-Programming/tree/master/2050-count-good-numbers) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Roman0290/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Roman0290/Competitive-Programming/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Roman0290/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [2487-optimal-partition-of-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2487-optimal-partition-of-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
