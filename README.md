@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Roman0290/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Roman0290/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/Roman0290/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2280-count-good-triplets-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Roman0290/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
