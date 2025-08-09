@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Roman0290/Competitive-Programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Roman0290/Competitive-Programming/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Roman0290/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/Roman0290/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Roman0290/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Roman0290/Competitive-Programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Roman0290/Competitive-Programming/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Roman0290/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Roman0290/Competitive-Programming/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Roman0290/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roman0290/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Roman0290/Competitive-Programming/tree/master/2050-count-good-numbers) |
