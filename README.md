@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Roman0290/Competitive-Programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Roman0290/Competitive-Programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2249-count-the-hidden-sequences](https://github.com/Roman0290/Competitive-Programming/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Roman0290/Competitive-Programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/Roman0290/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
