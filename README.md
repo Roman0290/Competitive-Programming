@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Roman0290/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Roman0290/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Roman0290/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Roman0290/Competitive-Programming/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Roman0290/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Roman0290/Competitive-Programming/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Roman0290/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Roman0290/Competitive-Programming/tree/master/0014-longest-common-prefix) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Roman0290/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Roman0290/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Roman0290/Competitive-Programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Roman0290/Competitive-Programming/tree/master/2626-count-the-number-of-good-subarrays) |
