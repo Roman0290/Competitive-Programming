@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Roman0290/Competitive-Programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Roman0290/Competitive-Programming/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Roman0290/Competitive-Programming/tree/master/1720-crawler-log-folder) |
+| [1840-maximum-building-height](https://github.com/Roman0290/Competitive-Programming/tree/master/1840-maximum-building-height) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roman0290/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Roman0290/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Roman0290/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Roman0290/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Roman0290/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roman0290/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1840-maximum-building-height](https://github.com/Roman0290/Competitive-Programming/tree/master/1840-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Roman0290/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Roman0290/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Roman0290/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Roman0290/Competitive-Programming/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Roman0290/Competitive-Programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1840-maximum-building-height](https://github.com/Roman0290/Competitive-Programming/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Roman0290/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roman0290/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Roman0290/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
