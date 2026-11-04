@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roman0290/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Roman0290/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roman0290/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3548-find-the-count-of-good-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Roman0290/Competitive-Programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Roman0290/Competitive-Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roman0290/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Roman0290/Competitive-Programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Roman0290/Competitive-Programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Roman0290/Competitive-Programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roman0290/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Roman0290/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Roman0290/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Roman0290/Competitive-Programming/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roman0290/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3548-find-the-count-of-good-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Roman0290/Competitive-Programming/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roman0290/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Roman0290/Competitive-Programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Roman0290/Competitive-Programming/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Roman0290/Competitive-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Roman0290/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
 | ------- |
